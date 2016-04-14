@@ -32,7 +32,7 @@
 | | `ctrl + k` | deleted to end of line | |
 | | `ctrl + d` | split window vertically | |
 | | `ctrl + shift + d` | split window horizontally | |
-| | `open <ANYTHING>` | contextually open anything | `open .` open finder window in currend *pwd* |
+| | `open <ANYTHING>` | open, almost, anything with the approprate application | `open .` open finder window in currend *pwd* |
 | Browser | | | |
 | | `cmd + [left arrow, right arrow]` | back and forward through history |  |
 
