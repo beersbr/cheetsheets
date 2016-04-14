@@ -38,7 +38,17 @@
 
 #### Sublime Text 3
 
-Sublime text is a lot more fun to use with packages. First use the st console to install the package manager: https://packagecontrol.io/installation
+Sublime text is a lot more fun to use with packages. First use the st console to install the package manager: 
+* https://packagecontrol.io/installation
+
+I have included my preferences and user-keymap. You can find both by looking in the preferences menu (on OSX). Some of the hotkeys use these files. 
+
+If you would to create custom key bindings every function is listed here:
+* http://docs.sublimetext.info/en/latest/reference/commands.html
+* https://www.sublimetext.com/docs/commands
+
+I use several snippets for common things I type. A simple example would be `todo` and `note`. I have included both snippets in the repository. You can update them to include your name and put them in your `~Library/Application\ Support/Sublime\ Text\ 3/Packages/User/` directory. Then typing the snippet name and pressing tab will populate the typed text with the snippet. More documentation can be found here:
+* http://sublimetext.info/docs/en/extensibility/snippets.html
 
 \* adding **shift** to the commands reverse this command.
 
@@ -70,5 +80,9 @@ Sublime text is a lot more fun to use with packages. First use the st console to
 | `cmd + shift + l` | create multiple cursors at the end of each line of current selection |
 | `cmd + [` | unindent selection or line |
 | `cmd + ]` | indent selection or line |
+| `cmd + k, cmd + o` | clear bookmarks |
+| `cmd + k, cmd + b` | toggle bookmark |
+| `cmd + k, cmd + n` | goto next bookmark |
+| `cmd + k, cmd + shift + n` | goto previous bookmark |
 
 
