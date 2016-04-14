@@ -2,4 +2,4 @@
 
 
 Mac OSX
-* *cmd* + *space*
+* **cmd** + *space*
