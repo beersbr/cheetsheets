@@ -69,6 +69,7 @@ These are just common commands that I use. Here is another list:
 | `cmd + shift + p` | open command window. you can do all sorts of things with this. start typing to find out |
 | `option + cmd + p` | show file type in status bar. (lower left. Django Python shows `python.source.django`. This is important for snippets) |
 | `cmd + b` | build current file with current build system |
+| `cmd + /` | toggle comment of line or selection |
 | `cmd + shift + [` | move to tab on left |
 | `cmd + shift + ]` | move to tab on right |
 | `cmd + d` | select word and matching words (will create multiple cursors) |
