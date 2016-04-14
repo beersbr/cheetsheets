@@ -50,6 +50,9 @@ If you would to create custom key bindings every function is listed here:
 I use several snippets for common things I type. A simple example would be `todo` and `note`. I have included both snippets in the repository. You can update them to include your name and put them in your `~Library/Application\ Support/Sublime\ Text\ 3/Packages/User/` directory. Then typing the snippet name and pressing tab will populate the typed text with the snippet. More documentation can be found here:
 * http://sublimetext.info/docs/en/extensibility/snippets.html
 
+Building with sublime text is easy enough with custom configs. I will update the repo with my build system. For now you can find more info on that there: 
+* http://docs.sublimetext.info/en/latest/reference/build_systems.html
+
 \* adding **shift** to the commands reverse this command.
 
 \*\* holding **shift** will select the from cursor start to end of command
@@ -58,6 +61,8 @@ I use several snippets for common things I type. A simple example would be `todo
 |------|-----|
 | `ctrl + `` | open python st console |
 | `cmd + shift + p` | open command window. you can do all sorts of things with this. start typing to find out |
+| `option + cmd + p` | show file type in status bar. (lower left. Django Python shows `python.source.django`. This is important for snippets) |
+| `cmd + b` | build current file with current build system |
 | `cmd + shift + [` | move to tab on left |
 | `cmd + shift + ]` | move to tab on right |
 | `cmd + d` | select word and matching words (will create multiple cursors) |
