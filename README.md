@@ -38,7 +38,10 @@
 
 #### Sublime Text 3
 
+Sublime text is a lot more fun to use with packages. First use the st console to install the package manager: https://packagecontrol.io/installation
+
 \* adding **shift** to the commands reverse this command.
+
 \*\* holding **shift** will select the from cursor start to end of command
 
 | command | info | 
