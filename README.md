@@ -4,6 +4,9 @@
 | Name | Description | info | 
 |------|-----|----|
 | Homebrew | application manager akin to yum | http://brew.sh/ |
+| Skitch | screen shotting tool | https://evernote.com/skitch/ |
+| Iterm3 | terminal replacement | https://www.iterm2.com |
+| Dash | Documentation withouth the internet | https://kapeli.com/dash |
 
 #### Common Shortcuts
 
