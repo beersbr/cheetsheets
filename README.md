@@ -53,6 +53,9 @@ I use several snippets for common things I type. A simple example would be `todo
 Building with sublime text is easy enough with custom configs. I will update the repo with my build system. For now you can find more info on that there: 
 * http://docs.sublimetext.info/en/latest/reference/build_systems.html
 
+These are just common commands that I use. Here is another list:
+* http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html
+
 \* adding **shift** to the commands reverse this command.
 
 \*\* holding **shift** will select the from cursor start to end of command
@@ -90,4 +93,14 @@ Building with sublime text is easy enough with custom configs. I will update the
 | `cmd + k, cmd + n` | goto next bookmark |
 | `cmd + k, cmd + shift + n` | goto previous bookmark |
 
+#### Sublime Text 3 packages
 
+Most of these you can find by opening the command window (`cmd + shift + p`) and typing `install` then selecting the install package option. A list display will open and you can type to find a package then pressing enter will install that package.
+
+This will get updated as I remember to add them.
+
+| package | link | info |
+| --- | --- | --- |
+| TodoReview | https://github.com/jonathandelgado/SublimeTodoReview | Shows all todos in current file and project in a nice list with line numbers |
+| Numix Theme | https://github.com/nauzethc/sublime-text-numix | A really nice looking theme with hard edges. ( You can see the theme seeting in the preferences file included in the repository) |
+| VAlign | https://github.com/jarod2d/sublime_valign | allows you to align text by symbols (line up sveral lines by equal signs by using `cmd + \`)  |
