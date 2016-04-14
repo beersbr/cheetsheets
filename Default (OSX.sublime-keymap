@@ -1,0 +1,8 @@
+[
+	{ "keys": ["super+control+r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} },
+	{ "keys": ["super+k", "super+n"], "command": "next_bookmark" },
+	{ "keys": ["super+k", "super+shift+n"], "command": "prev_bookmark" },
+	{ "keys": ["super+k", "super+b"], "command": "toggle_bookmark" },
+	{ "keys": ["super+k", "super+o"], "command": "clear_bookmarks" },
+	{ "keys": ["super+k", "super+shift+b"], "command": "toggle_side_bar" }
+]
