@@ -96,6 +96,9 @@ These are just common commands that I use. Here is another list:
 | `cmd + k, cmd + b` | toggle bookmark |
 | `cmd + k, cmd + n` | goto next bookmark |
 | `cmd + k, cmd + shift + n` | goto previous bookmark |
+| `cmd + option + [1-3..]` | split window vertically |
+| `cmd + option + shift + [1-3..]` | split window horizontally |
+| `cmd + [1-3..]` | go to tab number. 1 being the left most tab. |
 
 #### Sublime Text 3 packages
 
