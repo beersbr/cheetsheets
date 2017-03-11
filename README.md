@@ -45,7 +45,7 @@
 
 You can get these isntructions from: ` https://packagecontrol.io/installation `
 
-* Press ` ctrl + \``
+* Press ` ctrl + ``
 
 * Enter
 
@@ -79,7 +79,7 @@ These are just common commands that I use. Here is another list:
 
 | command | info | 
 |------|-----|
-| `ctrl + \`` | open python st console |
+| `ctrl + `` | open python st console |
 | `cmd + shift + p` | open command window. you can do all sorts of things with this. start typing to find out |
 | `option + cmd + p` | show file type in status bar. (lower left. Django Python shows `python.source.django`. This is important for snippets) |
 | `cmd + b` | build current file with current build system |
